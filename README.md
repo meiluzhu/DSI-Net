@@ -1,4 +1,4 @@
-### DSI-Net: Deep Synergistic Interaction Network for Joint Classification and Segmentation with Endoscope Images, under review in IEEE Transaction Medical Imaging
+### DSI-Net: Deep Synergistic Interaction Network for Joint Classification and Segmentation with Endoscope Images, under review at IEEE TMI
 
-source code is being organised and will be released soon.
+The source code is being organised and will be released soon.
 
